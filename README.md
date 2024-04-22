@@ -26,6 +26,8 @@ npm install
 4. Inicie o projeto:
 npm start
 
+# Link para acessar a aplicação online:
+https://apicep-blond.vercel.app/
 
 # Referência
 Este projeto foi desenvolvido com base no tutorial disponível em: YouTube - Tutorial de Buscador de CEP com React.JS
